@@ -1,22 +1,22 @@
 # squirrel.group81
 
 
-#1.app link
+1.app link
 
 the link of the app is as bellow:
 
-#2.command for inport and export data:
+2.command for inport and export data:
 
 #import data
 $ python manage.py import_squirrel_data /path/to/file.csv
 #export data
 $ python manage.py export_squirrel_data /path/to/file.csv
 
-#3.map
+3.map
 
 the link of the map is as bellow:
 
-#4.group information
+4.group information
 
 Group name and section: Project Group 81, Section 2
 
